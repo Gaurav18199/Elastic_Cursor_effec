@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.circle{
+ 
+    position: fixed;
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    border-radius: 100%;
+    top: -20px;
+    left: -20px;
+    pointer-events: none;
+}
